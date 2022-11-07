@@ -1,20 +1,18 @@
-Hello World, I’m @REDDY50N
+Hello World,
 
-👀 I’m interested in ...
-Qt, Linux in generell, Linux on Embedded Devices, SBCs like Raspberry Pi
+I am a passionate gardener and software engineer.
+
+👀 I’m interested in
+C/C++, Qt-Framework, Linux in generell, Linux on Embedded Devices, SBCs like Raspberry Pi.
 
 
 🌱 
-I’m currently learning ...
-Rust, Go, Lua
+I’m currently learning Rust, Go and Lua.
 
 
-- 💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on ...
 
 
-- 📫 How to reach me ...
-
-- Tools I use ...
 
 <!---
 REDDY50N/REDDY50N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
