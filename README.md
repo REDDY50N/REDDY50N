@@ -1,5 +1,6 @@
 <h1 align="center">Hello World,</h1>
-<h3 align="center">I am a passionate gardener and Software Engineer from Germany</h3>
+
+<h3 align="center">🌱 As a software engineer and passionate gardener, I cultivate both code and plants!</h3>
 
 - 🔭 I’m currently working on **large scale Qt/C++ projects running on Linux x86 Industrial PC's.**
 
