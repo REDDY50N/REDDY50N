@@ -25,7 +25,7 @@ Prefer crafting simple command-line tools with optional GUI layers, typically us
 
 Currently expanding Rust expertise and experimenting with the ShadCN crate to develop web applications that integrate with a Raspberry Pi–powered touchscreen dashboard for the home lab.
 
-## Tech Stack
+## Tech Stack 💻
 
 ### Coding
 
