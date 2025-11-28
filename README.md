@@ -48,6 +48,4 @@ Currently expanding Rust expertise and experimenting with the ShadCN crate to de
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=REDDY50N&color=green&style=flat&label=Profile+Views)
-</div>
+![](https://komarev.com/ghpvc/?username=REDDY50N)
