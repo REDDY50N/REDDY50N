@@ -47,3 +47,7 @@ Currently expanding Rust expertise and experimenting with the ShadCN crate to de
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=REDDY50N&color=green&style=flat&label=Profile+Views)
+</div>
