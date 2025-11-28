@@ -1,51 +1,28 @@
 
-<h3 align="center">🌱 As a software engineer and passionate gardener, I cultivate both code and plants!</h3>
+
+<h4 align="center">🌱 As a software engineer and passionate gardener, I cultivate both code and plants!</h4>
+
+Hi there 👋
+
+- 💻 I am working as Qt/C++ Software Engineer at [POLAR Cutting Technologies](https://www.linkedin.com/company/polar-mohr/)
+- 🧰 I use daily:  C++, Cmake, Qt, Bash/Shell Script, Linux CLI
+- 🔎 Interested in everything related to modern software development and  greenhouse automation
+- ❤️ Open Source Software 
+- 🐧 Linux ... runs on a vast majority of modern devices
+
+### Projects
+
+Currently I put all my past projects together to a large scale greenhouse data acquisition and monitoring system. This system uses an Arduino programmed in pure C++ with CMake to gather sensor data, which is then processed by a Raspberry Pi acting as the central unit (the brain). The Raspberry Pi manages the database, provides visualization, camera access, and supports web interfaces and dashboards.
+
+I am passionate about developing efficient software in native languages like C++ and Rust. Deeply interested in embedded Linux, find Rugix to be an excellent alternative to the Yocto Project.
 
 
 
+### Tech Stack
 
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) ![CMake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge) ![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=for-the-badge) ![Sonar Badge](https://img.shields.io/badge/Sonar-FD3456?logo=sonar&logoColor=fff&style=for-the-badge)  ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge) ![MQTT Badge](https://img.shields.io/badge/MQTT-606?logo=mqtt&logoColor=fff&style=for-the-badge) ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge) ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge) ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge) ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge) ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=for-the-badge) ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge) ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge) 
 
-# About Me 👋
-
-Experienced software engineer with a focus on industrial touchscreen applications.
-
-Outside of work, hands-on projects fuel my curiosity—such as integrating Raspberry Pi cameras in a greenhouse setup with MotionPi and sensor networks.
-
-Much of my development connects to gardening and greenhouse automation, practical utility tools, and improving my home lab environment.
-
-A strong advocate for self-hosted solutions, managing home lab services through Docker Compose and Portainer.
-
-In professional settings, I rely on the Atlassian toolchain, while personal projects are often organized with agile tools like Taiga.io.
-
-Passionate about building efficient software in native languages like C++ and Rust.
-
-Deeply interested in embedded Linux, finding Rugix to be an awsome alternative to the Yocto Project.
-
-Prefer crafting simple command-line tools with optional GUI layers, typically using the Qt framework.
-
-Currently expanding Rust expertise and experimenting with the ShadCN crate to develop web applications that integrate with a Raspberry Pi–powered touchscreen dashboard for the home lab.
-
-## Tech Stack 💻
-
-### Coding
-
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-![CMake](https://img.shields.io/badge/-CMake-0e2f44.svg?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4NSA4NSI+PGcgaWQ9IkxheWVyXzEtMiIgZGF0YS1uYW1lPSJMYXllciAxIj48cG9seWdvbiBwb2ludHM9IjQxLjg5IDcuNCA4LjEgNzQuNTEgNDUuMSA0My4xIDQxLjg5IDcuNCIgc3R5bGU9ImZpbGw6IzAxNTA4YyIvPjxwb2x5Z29uIHBvaW50cz0iNzUuMTIgNzYuNjEgMjkuNSA1OC4yMyA3LjgyIDc2LjYxIDc1LjEyIDc2LjYxIiBzdHlsZT0iZmlsbDojMjY5ODQ3Ii8+PHBvbHlnb24gcG9pbnRzPSI3Ny4zMSA3NS45NiA0My40MyA4LjU0IDQ4LjQ0IDY0LjM1IDc3LjMxIDc1Ljk2IiBzdHlsZT0iZmlsbDojYmUyNDI5Ii8+PHBvbHlnb24gcG9pbnRzPSI0NS4yNSA0NC44NiAzMC43NCA1Ny4xOCA0Ni45NSA2My43MyA0NS4yNSA0NC44NiIgc3R5bGU9ImZpbGw6I2NlY2VjZSIvPjwvZz48L3N2Zz4=)
-![Qt](https://img.shields.io/badge/Qt-373F26.svg?&logo=Qt&logoColor=white)
-[![QML](https://img.shields.io/badge/QML-00414A.svg?logo=qml&logoColor=white)](#)
-![Rust](https://img.shields.io/badge/Rust-123456?logo=rust&logoColor=#E57324)
-![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
-[![Bash](https://img.shields.io/badge/Bash_Script-D9920D?logo=gnubash&logoColor=fff)](#)
-
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Doxygen](https://img.shields.io/badge/doxygen-2C4AA8?logoColor=white)
-![CLion](https://img.shields.io/badge/-CLion-3B025C?style=flat&logo=clion&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 
 ![](https://komarev.com/ghpvc/?username=REDDY50N)
+
+
